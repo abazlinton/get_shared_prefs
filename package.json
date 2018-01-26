@@ -1,0 +1,11 @@
+{
+  "name": "as",
+  "version": "1.0.0",
+  "description": "",
+  "main": "as_js.js",
+  "scripts": {
+    "start": "osascript -l JavaScript as_js.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
